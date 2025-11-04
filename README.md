@@ -15,6 +15,8 @@ Analyzed HR data to identify patterns driving employee attrition and provide act
 - Sales & HR departments have the highest turnover.
 - Overtime and low salary strongly correlate with attrition.
 
+  RETENTION STRATEGY RECOMMENDATIONS 
+
 ## 📎 Files
 - HR_Analytics_Clean.xlsx
 - HR_Analytics_SQL_Scripts.sql
