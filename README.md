@@ -5,6 +5,8 @@
 ## 📊 Overview
 Analyzed HR data to identify patterns driving employee attrition and provide actionable insights.
 
+“This analysis explores employee attrition trends to identify the key factors driving turnover and recommend data-driven retention strategies. Using Excel, SQL, and Power BI, I examined how demographics, satisfaction, and compensation influence attrition rates across departments.”
+
 ## 🧰 Tools
 - Excel (Data Cleaning & Exploration)
 - SQL (Data Analysis)
@@ -15,7 +17,9 @@ Analyzed HR data to identify patterns driving employee attrition and provide act
 - Sales & HR departments have the highest turnover.
 - Overtime and low salary strongly correlate with attrition.
 
-  RETENTION STRATEGY RECOMMENDATIONS 
+  RETENTION STRATEGY RECOMMENDATIONS
+
+  
 
 ## 📎 Files
 - HR_Analytics_Clean.xlsx
