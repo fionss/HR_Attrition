@@ -2,10 +2,9 @@
 
 # HR Analytics: Employee Attrition Insights
 
-## 📊 Overview
-Analyzed HR data to identify patterns driving employee attrition and provide actionable insights.
-
-“This analysis explores employee attrition trends to identify the key factors driving turnover and recommend data-driven retention strategies. Using Excel, SQL, and Power BI, I examined how demographics, satisfaction, and compensation influence attrition rates across departments.”
+## 📊 Executive Summary 
+Analyzed HR data to identify patterns, figure out what is driving employee attrition and provide actionable insights.
+This analysis explores employee attrition trends in hopes to identify the key factors attributing to it and to recommend data-driven retention strategies. Using Excel, SQL and Power BI, I examined how demographics, satisfaction and compensation influence attrition rates across the different departments.
 
 ## 🧰 Tools
 - Excel (Data Cleaning & Exploration)
