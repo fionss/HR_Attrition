@@ -76,10 +76,59 @@
 
 
 <h2>Executive Summary</h2>
-<p>It is crucial to track attrition and not just </p>
+<p>The overall attrition rate for the organization is 16%, this exceeds the industry benchmark of 10%. High attrition could mean some employees are unhappy due to things like toxic work culture, burnout, career stagnation, low pay compared to competitors, poor mangement. The company could also be loosing money through onboarding, recruitment, lost productivity and the business performance suffers as projects slow down, quality drops and the remaining employees feel stressed. The age group with the highest attrition is 18-24, with an attrition rate of 39%. The sales representative roles experienced an attrition of 40% the highest compared to the other roles.</p>
 
+This means that younger employees aren't staying long and sales representatives is filled with young employees that aren't being compensated enough.
+<h2>Insights</h2>
+<ul>
+  <li>Young employees(aged 18-25) showed the highest attrition rate due to career and growth opportunities.</li>
+  <li>For the young employees most of the attrition was coming from human resources roles followed by sales representative roles.</li>
+  <li>Overtime was a strong attrition driver.</li>
+  <li>Employees that frequently travel were three times more likely to leave compared to non-travel employees.</li>
+  <li>Attrition is the lowest at the five year mark.</li>
+  <li>Distance from work isn't as strong of a factor as expected, attrition rates for the distance being far and moderately close is about the same.</li>
+  <li>Employees with low job satisfaction and and poor work-life balance were significantly more likely to leave.</li>
+</ul>
 
+<h2>Business Recommendations</h2>
+<ol>
+  <li>Strengthen early career development programs</li>
+  <ul>
+    <li>Offer rotational programs</li>
+    <li>Improve mentorship and manager and management feedback.</li>
+    <li>Build clear growth paths for employees under 30.</li>
+    <li>Provide salary benchmark for entry level roles so as to be competitive.</li>
+  </ul>
+  
+  <li>Redesign HR and sales representative </li>
+  <ul>
+    <li>Provide earlier promotions.</li>
+    <li>Asses workloads of all the job departments.</li>
+    <li>Add skill development courses to aid career growth.</li>
+  </ul>
+  
+  <li>Reduce burnout by regulating overtime</li>
+  <ul>
+    <li>Set up surveys that also inquire about burnout.</li>
+    <li>Hire support staff for overworked departments.</li>
+    <li>Introduce overtime policies.</li>
+  </ul>
 
+  <li>Reduce excessive business travel</li>
+  <ul>
+    <li>Introduce hybrid travel schedules.</li>
+    <li>Offer travel recovery days or stipends.</li>
+    <li>Increase virtual meetings when possible.</li>
+  </ul>
+
+  <li>Improve employee experience</li>
+  <ul>
+    <li>Look into flexible working options</li>
+    <li>Launch wellness programs and mental health resources</li>
+    <li>Conduct satisfaction surverys periodically to identify issues early.</li>
+  </ul>
+  
+</ol>
 
 
 
