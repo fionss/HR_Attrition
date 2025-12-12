@@ -1,6 +1,6 @@
 <h1>HR Attrition Analysis</h1>
 <h3>Full Analytics Project(Excel, SQL and Power BI)</h3>
-<h4>A Data Driven Exploration Into Workforce Dynamics</h4>
+<h4>A Data Driven Exploration Into Workforce Dynamics, Turnover and Business Impact</h4>
 
 <h2>Background and Overview</h2>
 <p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers.</p>
