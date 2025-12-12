@@ -3,7 +3,13 @@
 <h4>A Data Driven Exploration Into Workforce Dynamics, Turnover and Business Impact</h4>
 
 <h2>Background and Overview</h2>
-<p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers.</p>
+<p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers. Tracking employee attrition not just turnover is important because turnover is more focused on replacing employees while attrition breaks down the gradual reduction sometimes planned(retirement) or unplanned(lay-offs). Some of the reasons exploring employee attrition: </p>
+<ol>
+  <li>It leads to a loss of knowledge: especially from experienced employees causes gaps in institutional knowledge leading to efficiency problems.</li>
+  <li>Increased workload: when positions aren't filled it adds more burden to the existing employees.</li>
+  <li>Underlying disatisfaction: things like stunted career growth.</li>
+  <li>Employer reputation: having high attrition isn't a good look and can affect attempts at attracting top talent.</li>
+</ol>
 
 <p>This project showcases end-to-end analysis using: </p>
 <ul>
@@ -63,11 +69,14 @@
 </ul>
 
 <h3>Power BI Dashboard</h3>
-<p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture. Some things explore</p>
+<p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture.</p>
+
+*insert images here 
 
 
 
-
+<h2>Executive Summary</h2>
+<p>It is crucial to track attrition and not just </p>
 
 
 
