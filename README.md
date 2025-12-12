@@ -63,7 +63,8 @@
 </ul>
 
 <h3>Power BI Dashboard</h3>
-<p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture</p>
+<p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture. Some things explore</p>
+
 
 
 
