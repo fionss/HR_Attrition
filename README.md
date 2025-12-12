@@ -1,29 +1,84 @@
-# HR_Attrition
+<h1>HR Attrition Analysis</h1>
+<h3>Full Analytics Project(Excel, SQL and Power BI)</h3>
+<h4>A Data Driven Exploration Into Workforce Dynamics</h4>
 
-# HR Analytics: Employee Attrition Insights
+<h2>Background and Overview</h2>
+<p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers.</p>
 
-## 📊 Executive Summary 
-Analyzed HR data to identify patterns, figure out what is driving employee attrition and provide actionable insights.
-This analysis explores employee attrition trends in hopes to identify the key factors attributing to it and to recommend data-driven retention strategies. Using Excel, SQL and Power BI, I examined how demographics, satisfaction and compensation influence attrition rates across the different departments.
+<p>This project showcases end-to-end analysis using: </p>
+<ul>
+  <li>Excel - Data cleaning and exploratory analysis</li>
+  <li>SQL - Data transformation, segmentation, KPIs</li>
+  <li>Power BI - Visualization, storytelling and executive dashboarding</li>
+</ul>
 
-## 🧰 Tools
-- Excel (Data Cleaning & Exploration)
-- SQL (Data Analysis)
-- Power BI (Dashboard Visualization)
+<h3>Business Questions</h3>
+<p>The project aims to answer these questions:</p>
+<ul>
+  <li>What is the organization's overall attrition rate and which groups are most affected? </li>
+  <li>How do compensation factors like income, salry hike, job level influence attrition?</li>
+  <li>Are job satisfaction, work-life balance or travel affect attrition? </li>
+  <li>What demographic or role based patterns come up?</li>
+  <li>Which insights can help HR teams improve retentention, optimize compensation and strengthen employee experience?</li>
+</ul>
 
-## 🔍 Key Findings
-- 16% overall attrition rate.
-- Sales & HR departments have the highest turnover.
-- Overtime and low salary strongly correlate with attrition.
+<h2>Data Structure and Overview</h2>
 
-  RETENTION STRATEGY RECOMMENDATIONS
+<h3>Dataset Summary</h3>
+<p>Some of what is included in the dataset:</p>
+<ul>
+  <li>Demographics: age, gender, marital status, education</li>
+  <li>Employment details: job role, department, job level, business travel, overtime</li>
+  <li>Compensation: monthly income, percent salary hike, stock option level</li>
+  <li>Tenure metrics: years at company, years in current role, years since last promotion</li>
+  <li>Experience and satisfaction: work-life balance, job satisfaction, environment satisfaction</li>
+</ul>
 
-  
+<h3>Data Cleaning and Preparation - Excel</h3>
+<ul>
+  <li>Reformatted data types (whole numbers, text)</li>
+  <li>Removed unrealistic values</li>
+  <li>Replaced numeric values with descriptive labels(distance from home rank, job level rank)</li>
+  <li>Created new columns(attrition flag)</li>
+  <li>Built pivot tables showing quick insights</li>
+</ul>
 
-## 📎 Files
-- HR_Analytics_Clean.xlsx
-- HR_Analytics_SQL_Scripts.sql
-- HR_Analytics_Dashboard.pbix
+<h3>SQL Analysis</h3>
+<p>Key SQL techniques used:</p>
+<ul>
+  <li>Aggregation functions(cCOUNT, AVG, SUM)</li>
+  <li>CASE WHEN statements</li>
+  <li>Calculating attrition rates using attrition flags</li>
+  <li>Filtering and segmentation using WHERE, GROUP BY, ORDER BY</li>
+  <li>Building IncomeBracket, Agegroup and tenure logic in SQL</li>
+  <li>Using ROUND for formatting</li>
+</ul>
 
-## 📈 Dashboard Preview
-![Dashboard Screenshot](link-to-image)
+<p>Some insights from SQL</p>
+<ul>
+  <li>Overall attrition</li>
+  <li>Attrition rate by department</li>
+  <li>Age groups most likely to leave</li>
+  <li>Pattens between income group and job level</li>
+</ul>
+
+<h3>Power BI Dashboard</h3>
+<p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
