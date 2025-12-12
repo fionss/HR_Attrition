@@ -121,7 +121,7 @@ This means that younger employees aren't staying long and sales representatives 
     <li>Increase virtual meetings when possible.</li>
   </ul>
 
-  <li><h4></h4>Improve employee experience</h4></li>
+  <li><h4>Improve employee experience</h4></li>
   <ul>
     <li>Look into flexible working options</li>
     <li>Launch wellness programs and mental health resources</li>
