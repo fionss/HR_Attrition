@@ -92,7 +92,7 @@ This means that younger employees aren't staying long and sales representatives 
 
 <h2>Business Recommendations</h2>
 <ol>
-  <li>Strengthen early career development programs</li>
+  <li><b>Strengthen early career development programs</b></li>
   <ul>
     <li>Offer rotational programs</li>
     <li>Improve mentorship and manager and management feedback.</li>
