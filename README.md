@@ -19,7 +19,7 @@ This project showcases end-to-end analysis using:
 </ul>
 
 <h3>Business Questions</h3>
-<p>The project aims to answer these questions:</p>
+The project aims to answer these questions:
 <ul>
   <li>What is the organization's overall attrition rate and which groups are most affected? </li>
   <li>How do compensation factors like income, salry hike, job level influence attrition?</li>
