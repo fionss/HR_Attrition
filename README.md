@@ -78,7 +78,7 @@
 <h2>Executive Summary</h2>
 <p>The overall attrition rate for the organization is 16%, this exceeds the industry benchmark of 10%. High attrition could mean some employees are unhappy due to things like toxic work culture, burnout, career stagnation, low pay compared to competitors, poor mangement. The company could also be loosing money through onboarding, recruitment, lost productivity and the business performance suffers as projects slow down, quality drops and the remaining employees feel stressed. The age group with the highest attrition is 18-24, with an attrition rate of 39%. The sales representative roles experienced an attrition of 40% the highest compared to the other roles.</p>
 
-This means that younger employees aren't staying long and sales representatives is filled with young employees that aren't being compensated enough.
+
 <h2>Insights</h2>
 <ul>
   <li>Young employees(aged 18-25) showed the highest attrition rate due to career and growth opportunities.</li>
