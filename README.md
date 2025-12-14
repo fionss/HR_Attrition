@@ -100,28 +100,28 @@ This means that younger employees aren't staying long and sales representatives 
     <li>Provide salary benchmark for entry level roles so as to be competitive.</li>
   </ul>
   
-  <li>Redesign HR and sales representative </li>
+  <li><b>Redesign HR and sales representative</b></li>
   <ul>
     <li>Provide earlier promotions.</li>
     <li>Asses workloads of all the job departments.</li>
     <li>Add skill development courses to aid career growth.</li>
   </ul>
   
-  <li>Reduce burnout by regulating overtime</li>
+  <li><b>Reduce burnout by regulating overtime</b></li>
   <ul>
     <li>Set up surveys that also inquire about burnout.</li>
     <li>Hire support staff for overworked departments.</li>
     <li>Introduce overtime policies.</li>
   </ul>
 
-  <li>Reduce excessive business travel</li>
+  <li><b>Reduce excessive business travel</b></li>
   <ul>
     <li>Introduce hybrid travel schedules.</li>
     <li>Offer travel recovery days or stipends.</li>
     <li>Increase virtual meetings when possible.</li>
   </ul>
 
-  <li>Improve employee experience</li>
+  <li><b>Improve employee experience</b></li>
   <ul>
     <li>Look into flexible working options</li>
     <li>Launch wellness programs and mental health resources</li>
