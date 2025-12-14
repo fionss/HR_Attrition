@@ -11,7 +11,7 @@ Employee attrition is a major challenge for organizations, it influences product
   <li>Employer reputation: having high attrition isn't a good look and can affect attempts at attracting top talent.</li>
 </ol>
 
-<p>This project showcases end-to-end analysis using: </p>
+This project showcases end-to-end analysis using: 
 <ul>
   <li>Excel - Data cleaning and exploratory analysis</li>
   <li>SQL - Data transformation, segmentation, KPIs</li>
