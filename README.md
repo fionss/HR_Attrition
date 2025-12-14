@@ -12,7 +12,6 @@ Employee attrition is a major challenge for organizations, it influences product
 </ol>
 
 This project showcases end-to-end analysis using: 
-
 <ul>
   <li>Excel - Data cleaning and exploratory analysis</li>
   <li>SQL - Data transformation, segmentation, KPIs</li>
