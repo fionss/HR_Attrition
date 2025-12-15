@@ -30,8 +30,10 @@ This analysis aims to answer these questions:
 </ul>
 
 <img width="325" height="199" alt="image" src="https://github.com/user-attachments/assets/2e666acc-4375-47a7-9db6-fdfb515a2168" />
+<p>Sales representatives are most likely to leave compared to all the other job roles.</p>
 
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/eb49b506-0b72-45b7-b139-4f77b71657d8" />
+<p>Attrition is popular among the younger population particulary 18-25.</p>
 
 
 <h2>Data Structure and Overview</h2>
@@ -84,6 +86,7 @@ This analysis aims to answer these questions:
 <p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture.</p>
 
 <img width="323" height="179" alt="image" src="https://github.com/user-attachments/assets/eab70434-3418-4546-914a-513986ce9549" />
+<p>This visual explores the relationship between monthly income and salary hike on attrition.</p>
 
 
 
