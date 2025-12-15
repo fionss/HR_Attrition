@@ -16,7 +16,7 @@
 <ul>
   <li>Excel - Data cleaning and exploratory analysis</li> https://github.com/fionss/HR_Attrition/blob/main/HR%20Attrition%20Project.xlsx
   <li>SQL - Data transformation, segmentation, KPIs</li> https://github.com/fionss/HR_Attrition/blob/main/HR_Attrition.sql
-  <li>Power BI - Visualization, storytelling and executive dashboarding</li> 
+  <li>Power BI - Visualization, storytelling and executive dashboarding</li> https://github.com/fionss/HR_Attrition/blob/main/HRAttrition.pbix
 </ul>
 
 
