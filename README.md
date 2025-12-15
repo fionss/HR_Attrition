@@ -32,8 +32,6 @@ This analysis aims to answer these questions:
 <img width="325" height="199" alt="image" src="https://github.com/user-attachments/assets/2e666acc-4375-47a7-9db6-fdfb515a2168" />
 
 
-<img width="323" height="179" alt="image" src="https://github.com/user-attachments/assets/eab70434-3418-4546-914a-513986ce9549" />
-
 
 
 <h2>Data Structure and Overview</h2>
@@ -68,7 +66,11 @@ This analysis aims to answer these questions:
   <li>Using ROUND for formatting</li>
 </ul>
 
-*Insert images of sql code here 
+<img width="655" height="251" alt="image" src="https://github.com/user-attachments/assets/7eee0be1-a33c-4040-ad0e-a8f6fb442da2" />
+
+<img width="600" height="121" alt="image" src="https://github.com/user-attachments/assets/e65a2122-1426-4d9f-97a1-4b4412000fb9" />
+
+
 
 <p>Some insights from SQL</p>
 <ul>
@@ -81,7 +83,8 @@ This analysis aims to answer these questions:
 <h3>Power BI Dashboard</h3>
 <p>This dashboard is an overview and workforce summary that also explores compensation, career growth drivers, employee experience and work culture.</p>
 
-*insert images here 
+<img width="323" height="179" alt="image" src="https://github.com/user-attachments/assets/eab70434-3418-4546-914a-513986ce9549" />
+
 
 
 
