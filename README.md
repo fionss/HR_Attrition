@@ -2,10 +2,6 @@
 <h3>Full Analytics Project(Excel, SQL and Power BI)</h3>
 <h4>A Data Driven Exploration Into Workforce Dynamics, Turnover and Business Impact</h4>
 
-<h4>Table of Contents</h4>
--[Background and Overview](#background-and-overview)
-
-
 <h2>Background and Overview</h2>
 <p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers. Tracking employee attrition and not just turnover is important because turnover is more focused on replacing employees while attrition breaks down the gradual reduction sometimes planned(retirement) or unplanned(lay-offs). Some of the reasons exploring employee attrition:</p> 
 <ol>
@@ -137,11 +133,52 @@ This analysis aims to answer these questions:
   
 </ol>
 
-<h4>Limitations</h4>
+<h3>Limitations and Caveats</h3>
+<ol>
+  <li><b>The dataset is static and historical</b></li>
+  <ul>
+    <li>This analysis is done on an old fixed dataset that isn't updated in real time.</li>
+    <li>Some of the attrition trends represent past employees and may not represent the current conditions at the organization.</li>
+  </ul>
+  
+  <li><b>Attrition isn't clear enough</b></li>
+  <ul>
+    <li>Employees are classified as "attrited" or "active"</li>
+    <li>The dataset doesn't differentiate between:</li>
+    <ul>
+      <li>Voluntary vs involuntary attrition.</li>
+      <li>Resignations vs layoffs</li>
+      <li>High performers vs low performers</li>
+    </ul>
+    <li>This makes it difficult to truly assess attrition.</li>
+  </ul>
+
+  <li><b>Excel processes may affect results</b></li>
+  <ul>
+    <li>Data cleaning and transformation in Excel(formatting, missing values) can impact SQL queries and Power BI dashboards.</li>
+    <li>Different data cleaning processes can lead to slight differences in KPIs and attrition trends.</li>
+  </ul>
+
+  <li><b>The dashboard is decriptive, not predictive</b></li>
+  <ul>
+    <li>The Power BI dashboard focuses on descriptive analytics.</li>
+    <li>It doesn't include predictive modelling, for example the likelihood of attrition.</li>
+    <li>Future work could use Python or marchine learning for predictive analytics.</li>
+  </ul>
+
+  <li>No industry benchmark</li>
+  <ul>
+    <li>Attrition rates are analyzed without using external industry standards.</li>
+    <li>So the conclusions about whether attrition is to high or low is based on  general best practices not organization or industry specific.</li>
+  </ul>
+  
+</ol>
+
+
 
 
 <h4>References</h4>
-*Link the kaggle dataset
+The dataset used : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 
 
