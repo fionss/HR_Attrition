@@ -31,7 +31,7 @@ This analysis aims to answer these questions:
 
 <img width="325" height="199" alt="image" src="https://github.com/user-attachments/assets/2e666acc-4375-47a7-9db6-fdfb515a2168" />
 
-<img width="250" height="92" alt="image" src="https://github.com/user-attachments/assets/eb49b506-0b72-45b7-b139-4f77b71657d8" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/eb49b506-0b72-45b7-b139-4f77b71657d8" />
 
 
 <h2>Data Structure and Overview</h2>
@@ -181,11 +181,7 @@ This analysis aims to answer these questions:
     <li>Attrition rates are analyzed without using external industry standards.</li>
     <li>So the conclusions about whether attrition is to high or low is based on  general best practices not organization or industry specific.</li>
   </ul>
-  
 </ol>
-
-
-
 
 <h4>References</h4>
 The dataset used : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
