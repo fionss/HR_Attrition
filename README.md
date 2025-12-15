@@ -12,12 +12,13 @@
   <li>Employer reputation: having high attrition isn't a good look and can affect attempts at attracting top talent.</li>
 </ol>
 
-This project showcases end-to-end analysis using: 
+<p>This project showcases end-to-end analysis using: </p>
 <ul>
   <li>Excel - Data cleaning and exploratory analysis</li>    *Link to projects here 
   <li>SQL - Data transformation, segmentation, KPIs</li>
   <li>Power BI - Visualization, storytelling and executive dashboarding</li>
 </ul>
+
 
 <h3>Exploratory Data Analysis</h3>
 This analysis aims to answer these questions:
