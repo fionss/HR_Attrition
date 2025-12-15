@@ -2,30 +2,35 @@
 <h3>Full Analytics Project(Excel, SQL and Power BI)</h3>
 <h4>A Data Driven Exploration Into Workforce Dynamics, Turnover and Business Impact</h4>
 
+## Table of Contents
+
+-[
+
 <h2>Background and Overview</h2>
-Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers. Tracking employee attrition and not just turnover is important because turnover is more focused on replacing employees while attrition breaks down the gradual reduction sometimes planned(retirement) or unplanned(lay-offs). Some of the reasons exploring employee attrition: 
+<p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers. Tracking employee attrition and not just turnover is important because turnover is more focused on replacing employees while attrition breaks down the gradual reduction sometimes planned(retirement) or unplanned(lay-offs). Some of the reasons exploring employee attrition:</p> 
 <ol>
-  <li>It leads to a loss of knowledge: especially from experienced employees causes gaps in institutional knowledge leading to efficiency problems.</li>
+  <li>High costs: losing employees and having to replace them means higher expenses spent in recruitment, onboarding and training.</li>
+  <li>It leads to a loss of knowledge: especially when experienced employees leave this causes gaps in institutional knowledge leading to efficiency problems.</li>
   <li>Increased workload: when positions aren't filled it adds more burden to the existing employees.</li>
-  <li>Underlying disatisfaction: things like stunted career growth.</li>
+  <li>Underlying disatisfaction: things like stunted career growth, burnout.</li>
   <li>Employer reputation: having high attrition isn't a good look and can affect attempts at attracting top talent.</li>
 </ol>
 
 This project showcases end-to-end analysis using: 
 <ul>
-  <li>Excel - Data cleaning and exploratory analysis</li>
+  <li>Excel - Data cleaning and exploratory analysis</li>    *Link to projects here 
   <li>SQL - Data transformation, segmentation, KPIs</li>
   <li>Power BI - Visualization, storytelling and executive dashboarding</li>
 </ul>
 
-<h3>Business Questions</h3>
-The project aims to answer these questions:
+<h3>Exploratory Data Analysis</h3>
+This analysis aims to answer these questions:
 <ul>
   <li>What is the organization's overall attrition rate and which groups are most affected? </li>
-  <li>How do compensation factors like income, salry hike, job level influence attrition?</li>
+  <li>How do compensation factors like income, salry hike, job level influence attrition? </li>
   <li>Are job satisfaction, work-life balance or travel affect attrition? </li>
   <li>What demographic or role based patterns come up?</li>
-  <li>Which insights can help HR teams improve retentention, optimize compensation and strengthen employee experience?</li>
+  <li>Which insights can help HR teams improve retentention, optimize compensation and strengthen employee experience? </li>
 </ul>
 
 <h2>Data Structure and Overview</h2>
@@ -33,32 +38,34 @@ The project aims to answer these questions:
 <h3>Dataset Summary</h3>
 <p>Some of what is included in the dataset:</p>
 <ul>
-  <li>Demographics: age, gender, marital status, education</li>
-  <li>Employment details: job role, department, job level, business travel, overtime</li>
-  <li>Compensation: monthly income, percent salary hike, stock option level</li>
-  <li>Tenure metrics: years at company, years in current role, years since last promotion</li>
-  <li>Experience and satisfaction: work-life balance, job satisfaction, environment satisfaction</li>
+  <li>Demographics: age, gender, marital status, education.</li>
+  <li>Employment details: job role, department, job level, business travel, overtime.</li>
+  <li>Compensation: monthly income, percent salary hike, stock option level.</li>
+  <li>Tenure metrics: years at company, years in current role, years since last promotion.</li>
+  <li>Experience and satisfaction: work-life balance, job satisfaction, environment satisfaction.</li>
 </ul>
 
 <h3>Data Cleaning and Preparation - Excel</h3>
 <ul>
-  <li>Reformatted data types (whole numbers, text)</li>
-  <li>Removed unrealistic values</li>
-  <li>Replaced numeric values with descriptive labels(distance from home rank, job level rank)</li>
-  <li>Created new columns(attrition flag)</li>
-  <li>Built pivot tables showing quick insights</li>
+  <li>Reformatted data types (whole numbers, text).</li>
+  <li>Removed unrealistic values.</li>
+  <li>Replaced numeric values with descriptive labels(distance from home rank, job level rank).</li>
+  <li>Created new columns(attrition flag, ranks).</li>
+  <li>Built pivot tables and dashboards to show quick insights.</li>
 </ul>
 
 <h3>SQL Analysis</h3>
 <p>Key SQL techniques used:</p>
 <ul>
-  <li>Aggregation functions(cCOUNT, AVG, SUM)</li>
+  <li>Aggregation functions(COUNT, AVG, SUM)</li>
   <li>CASE WHEN statements</li>
   <li>Calculating attrition rates using attrition flags</li>
   <li>Filtering and segmentation using WHERE, GROUP BY, ORDER BY</li>
   <li>Building IncomeBracket, Agegroup and tenure logic in SQL</li>
   <li>Using ROUND for formatting</li>
 </ul>
+
+*Insert images of sql code here 
 
 <p>Some insights from SQL</p>
 <ul>
@@ -130,11 +137,11 @@ The project aims to answer these questions:
   
 </ol>
 
+<h4>Limitations</h4>
 
 
-
-
-
+<h4>References</h4>
+*Link the kaggle dataset
 
 
 
