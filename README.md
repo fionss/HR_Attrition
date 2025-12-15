@@ -166,7 +166,7 @@ This analysis aims to answer these questions:
     <li>Future work could use Python or marchine learning for predictive analytics.</li>
   </ul>
 
-  <li>No industry benchmark</li>
+  <li><b>No industry benchmark</b></li>
   <ul>
     <li>Attrition rates are analyzed without using external industry standards.</li>
     <li>So the conclusions about whether attrition is to high or low is based on  general best practices not organization or industry specific.</li>
