@@ -19,7 +19,6 @@
   <li>Power BI - Visualization, storytelling and executive dashboarding</li> https://github.com/fionss/HR_Attrition/blob/main/HRAttrition.pbix
 </ul>
 
-
 <h3>Exploratory Data Analysis</h3>
 This analysis aims to answer these questions:
 <ul>
@@ -30,7 +29,8 @@ This analysis aims to answer these questions:
   <li>Which insights can help HR teams improve retentention, optimize compensation and strengthen employee experience? </li>
 </ul>
 
-*Insert dashboard image here
+<img width="325" height="199" alt="image" src="https://github.com/user-attachments/assets/2e666acc-4375-47a7-9db6-fdfb515a2168" />
+
 
 <h2>Data Structure and Overview</h2>
 
