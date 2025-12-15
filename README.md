@@ -30,6 +30,8 @@ This analysis aims to answer these questions:
   <li>Which insights can help HR teams improve retentention, optimize compensation and strengthen employee experience? </li>
 </ul>
 
+*Insert dashboard image here
+
 <h2>Data Structure and Overview</h2>
 
 <h3>Dataset Summary</h3>
