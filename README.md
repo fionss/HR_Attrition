@@ -2,7 +2,7 @@
 <h4>A Data Driven Exploration Into Workforce Dynamics, Turnover and Business Impact</h4>
 <h4>Excel | SQL | PowerBI</h4>
 
-<h2>Background and Overview</h2>
+<h3>Background and Business Problem</h3>
 <p>Employee attrition is a major challenge for organizations, it influences productivity, profitability, work-place culture and institutional knowledge. This analytics project analyzes 1,470 employee profiles using Excel, SQL and Power BI to reveal the strongest drivers of turnover and provide a clear direction for HR decision makers. Tracking employee attrition and not just turnover is important because turnover is more focused on replacing employees while attrition breaks down the gradual reduction sometimes planned(retirement) or unplanned(lay-offs). Some of the reasons exploring employee attrition:</p> 
 <ol>
   <li>High costs: losing employees and having to replace them means higher expenses spent in recruitment, onboarding and training.</li>
