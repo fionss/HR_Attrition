@@ -106,6 +106,9 @@ This analysis aims to answer these questions:
   <li>Employees with low job satisfaction and and poor work-life balance were significantly more likely to leave.</li>
 </ul>
 
+<img width="594" height="334" alt="Screenshot 2026-10-30 184822" src="https://github.com/user-attachments/assets/4092933a-24b0-48e8-b24c-eb72ba2daf95" />
+
+
 <h2>Business Recommendations</h2>
 <ol>
   <li><b>Strengthen early career development programs</b></li>
