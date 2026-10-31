@@ -19,7 +19,7 @@
   <li>Power BI - Visualization, storytelling and executive dashboarding</li> https://github.com/fionss/HR_Attrition/blob/main/HRAttrition.pbix
 </ul>
 
-<h3>Exploratory Data Analysis</h3>
+<h3>Business Questions Answered</h3>
 This analysis aims to answer these questions:
 <ul>
   <li>What is the organization's overall attrition rate and which groups are most affected? </li>
