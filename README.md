@@ -36,18 +36,7 @@ This analysis aims to answer these questions:
 <p>Attrition is popular among the younger population particulary 18-25.</p>
 
 
-<h2>Data Structure and Overview</h2>
-
-<h3>Dataset Summary</h3>
-<p>Some of what is included in the dataset:</p>
-<ul>
-  <li>Demographics: age, gender, marital status, education.</li>
-  <li>Employment details: job role, department, job level, business travel, overtime.</li>
-  <li>Compensation: monthly income, percent salary hike, stock option level.</li>
-  <li>Tenure metrics: years at company, years in current role, years since last promotion.</li>
-  <li>Experience and satisfaction: work-life balance, job satisfaction, environment satisfaction.</li>
-</ul>
-
+<h2>Tools and Methodology</h2>
 <h3>Data Cleaning and Preparation - Excel</h3>
 <ul>
   <li>Reformatted data types (whole numbers, text).</li>
@@ -87,8 +76,6 @@ This analysis aims to answer these questions:
 
 <img width="323" height="179" alt="image" src="https://github.com/user-attachments/assets/eab70434-3418-4546-914a-513986ce9549" />
 <p>This visual explores the relationship between monthly income and salary hike on attrition.</p>
-
-
 
 
 <h2>Executive Summary</h2>
