@@ -68,7 +68,7 @@ This analysis aims to answer these questions:
   <li>Using ROUND for formatting</li>
 </ul>
 
-<img width="655" height="251" alt="image" src="https://github.com/user-attachments/assets/7eee0be1-a33c-4040-ad0e-a8f6fb442da2" />
+<img width="695" height="251" alt="image" src="https://github.com/user-attachments/assets/7eee0be1-a33c-4040-ad0e-a8f6fb442da2" />
 
 <img width="600" height="121" alt="image" src="https://github.com/user-attachments/assets/e65a2122-1426-4d9f-97a1-4b4412000fb9" />
 
